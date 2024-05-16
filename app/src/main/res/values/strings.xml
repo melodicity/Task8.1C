@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task 8.1C</string>
+    <string name="welcome">Welcome,\nLet\'s Chat!</string>
+    <string name="username">Username</string>
+    <string name="go">Go</string>
+    <string name="user_message">User Message</string>
+    <string name="bot_message">Bot Message</string>
+    <string name="send">Send</string>
+    <string name="message_chatbot">Message Chatbot</string>
+</resources>

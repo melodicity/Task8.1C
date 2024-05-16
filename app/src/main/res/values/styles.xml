@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="buttonStyle">@style/PrimaryButtonStyle</item>
+    </style>
+
+    <style name="PrimaryButtonStyle" parent="Widget.Material3.Button">
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:elevation">4dp</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/secondary10</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+    </style>
+</resources>
